@@ -1,0 +1,6 @@
+{
+  "javascript.format.insertSpaceAfterCommaDelimiter": false,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "html.format.enable": false,
+  "json.format.enable": false
+}
