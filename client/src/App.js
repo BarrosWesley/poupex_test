@@ -51,7 +51,7 @@ function App() {
                     </div>
 
                     <div className="login-form-group">
-                        <Field name="password" className="form-field"
+                        <Field name="password" className="form-field" type="password"
                         placeHolder="senha" />
 
                         <ErrorMessage
@@ -85,7 +85,7 @@ function App() {
                     </div>
 
                     <div className="login-form-group">
-                        <Field name="password" className="form-field"
+                        <Field name="password" className="form-field" type="password"
                         placeHolder="senha" />
 
                         <ErrorMessage
@@ -96,7 +96,7 @@ function App() {
                     </div>
 
                     <div className="login-form-group">
-                        <Field name="confirmPassword" className="form-field"
+                        <Field name="confirmPassword" className="form-field" type="password"
                         placeHolder="Confirme sua senha" />
 
                         <ErrorMessage
