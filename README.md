@@ -24,11 +24,11 @@ Pra execução do projeto sera necessário installar
  ### `npm run devStart`
 
 ## Learn More
-about [Nodemon] (https://nodemon.io/) for more information
-about [Express] (https://expressjs.com/) for more information
-about [yup] (https://github.com/jquense/yup) for more information
-about [cors] (https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) for more information
-about [bcrypt] (https://www.npmjs.com/package/bcrypt) for more information
-about [body-parser] (https://www.npmjs.com/package/body-parser) for more information
-about [Axios] (https://axios-http.com/docs/intro) for more information
-about [Formink] (https://formik.org/docs/overview) for more information
+* about [Nodemon] (https://nodemon.io/) for more information
+* about [Express] (https://expressjs.com/) for more information
+* about [yup] (https://github.com/jquense/yup) for more information
+* about [cors] (https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) for more information
+* about [bcrypt] (https://www.npmjs.com/package/bcrypt) for more information
+* about [body-parser] (https://www.npmjs.com/package/body-parser) for more information
+* about [Axios] (https://axios-http.com/docs/intro) for more information
+* about [Formink] (https://formik.org/docs/overview) for more information
